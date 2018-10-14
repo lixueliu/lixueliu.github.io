@@ -80,7 +80,7 @@ text-shadow:none;
 /*===== Header ===*/
 
 header[role="header"] {
-	padding-top: 80px;
+	/*padding-top: 80px;*/
 	padding-bottom: 39px
 }
 header[role="header"] h1 {
