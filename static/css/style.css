@@ -249,7 +249,7 @@ footer[role="footer"] nav > ul {
 footer[role="footer"] nav > ul > li {
 	display: inline-block;
 	text-transform: uppercase;
-	font-size: 15px;
+	font-size: 14px;
 	margin: 0 13px
 }
 footer[role="footer"] nav > ul > li > a {
